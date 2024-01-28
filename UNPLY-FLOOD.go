@@ -1,12 +1,11 @@
 /*
-Coded by LeeOn123
-Please fking code ur script by ur self, kid.
+Coded by - UNEMPLOID-HACKER
 
-I changed the random integers range to the max of int32.
-Now 386 systems should work well.
+WE MADE THIS SCRIPT BASED ON GO-LANG.
+USE OUR TOOL FOR FLOODING ON A WEB SERVER.
+WE MADE THIS FOR TERMUX AND LINUX USER'S 
 
-Looks like most people want to hit the url but not the host/ip.
-As a result, here you are.
+WANT TO LEARN HACKING IN A EASY WAY JUST CONTACT US ON TELEGRAM - @FALCON_SECURITY.
 */
 package main
 
